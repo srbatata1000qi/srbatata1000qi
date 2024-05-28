@@ -3,14 +3,16 @@
 <!--
 **srbatata1000qi/srbatata1000qi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Olá a todos que lem este perfil:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Yuri Santos:
+
+Dados escolar:
+
+-Estou no segundo ano do ensino medio.
+-Sou de exatas.
+-Gosto de matemática, história e geografia.
+
+Se quiser mandar um email, este é o meu contato:
+
+00001114879472sp@al.educacao.sp.gov.br
