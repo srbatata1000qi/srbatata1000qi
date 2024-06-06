@@ -1,7 +1,4 @@
-## Hi there 👋
 
-<!--
-**srbatata1000qi/srbatata1000qi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Olá a todos que lem este perfil:
 
